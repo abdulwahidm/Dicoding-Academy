@@ -28,7 +28,7 @@
 ## **Web Storage**
 ------------------
 
-Mengetahui tipe storage yang ada pada web dengan mencoba menggunakan localStorage untuk menyimpan histori perhitungan dari proyek kalkulator.
+* Mengetahui tipe storage yang ada pada web dengan mencoba menggunakan localStorage untuk menyimpan histori perhitungan dari proyek kalkulator.
 
 ## **Submission**
 -----------------
@@ -37,7 +37,7 @@ Mengetahui tipe storage yang ada pada web dengan mencoba menggunakan localStorag
 
 # Metode pembelajaran di kelas ini:
 
-Belajar self-paced (mandiri) menggunakan materi yang terdiri dari modul (bab) dan sub-modul (sub-bab).
-Quiz di akhir modul dan di antara sub-modul. Quiz wajib benar sebelum modul berikutnya dapat dibuka.
-Proyek (tugas) akhir berupa submission sebuah website yang sesuai pengetahuan yang telah diajarkan.
-Online session disediakan mingguan pada hari Rabu pukul 14:00 WIB. Penjelasan online session dapat dilihat pada link berikut ini >>> https://www.dicoding.com/academies/123
+* Belajar self-paced (mandiri) menggunakan materi yang terdiri dari modul (bab) dan sub-modul (sub-bab).
+* Quiz di akhir modul dan di antara sub-modul. Quiz wajib benar sebelum modul berikutnya dapat dibuka.
+* Proyek (tugas) akhir berupa submission sebuah website yang sesuai pengetahuan yang telah diajarkan.
+* Online session disediakan mingguan pada hari Rabu pukul 14:00 WIB. Penjelasan online session dapat dilihat pada link berikut ini >>> https://www.dicoding.com/academies/123
