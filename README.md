@@ -1,4 +1,4 @@
-# Dicoding Academy - Kelas Dasar-Pemrograman-Web
+# Dicoding Academy - Kelas Belajar Dasar Pemrograman Web
 
 Pendahuluan : 
 Pengenalan mengenai website, apa itu website, tools dalam mengembangkan sebuah website.
